@@ -1,0 +1,27 @@
+
+.container {
+    width: 1440px;
+    height: 800px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.box2 {
+    width: 288px;
+    height: 288px;
+    background-color:blue;
+    display: flex;
+    border-radius: 19px;
+    justify-content: center;
+    align-items: center;
+}
